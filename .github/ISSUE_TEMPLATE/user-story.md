@@ -1,7 +1,7 @@
 ---
 name: User story
 about: User story
-title: ''
+title: I
 labels: ''
 assignees: ''
 
